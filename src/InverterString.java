@@ -8,6 +8,6 @@ public class InverterString {
             return palavra.charAt(palavra.length()-1) + 
             inverter(palavra.substring(0, palavra.length()-1));
         }
-        return null;
+        return palavra;
     }
 }
