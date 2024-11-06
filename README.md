@@ -9,7 +9,7 @@
 7. [Implemente o Merge Sort para ordenar as linhas de uma matriz de inteiros.](./src/Matriz.java)
 8. [Implemente o Merge Sort para ordenar um array de objetos com base em um atributo específico (por exemplo, idade de uma pessoa).](./src/OrdenarObjetos.java)
 9. [Modifique o Merge Sort para ordenar um array de strings.](./src/ArrayString.java)
-10. Comparação de Algoritmos de Ordenação:
+10. [Comparação de Algoritmos de Ordenação](./src/comparacao/Main.java)
 
 ### Comparação de Algoritmos de Ordenação:
 
